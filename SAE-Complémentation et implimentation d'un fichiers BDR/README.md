@@ -1,8 +1,10 @@
+
 # Gestion d'un Service de Pompiers - Base de Données Relationnelle
 
 ## Description du Projet
 Ce projet consiste à concevoir et implémenter une base de données relationnelle MySQL pour un service de pompiers. L'objectif principal était de valider le Modèle Conceptuel de Données (MCD) et d'automatiser l'intégration des données à partir de fichiers CSV à l'aide d'un script Python, en garantissant la cohérence et l'intégrité du système.
 
+## Remarque : il s'agit de donnée fictif
 ---
 
 ## Exécution et Automatisation (Python)
